@@ -1,51 +1,33 @@
-# Hi, I'm Senior-Guy 👋
+# Hi, I'm Emmanuel 👋
 
-I build practical automation and Python projects focused on solving real problems, learning by doing, and exploring AI-powered workflows.
+Final-year biochemistry student learning Python and machine learning, with the goal of becoming an **AI engineer**. I learn by building, and I like automations that save real time.
 
-## About Me
+## What I'm working on
 
-I’m a self-driven builder learning software development through hands-on projects. My focus is on Python, workflow automation, APIs, and AI-assisted tools that make everyday tasks faster and smarter.
+- 🤖 **[AI News Bot](https://github.com/Senior-Guy/Automations/tree/main/newsletter)**: a Python bot on GitHub Actions that finds new AI stories every hour, summarizes them, and posts to Telegram ([live channel](https://t.me/Ai_news_latest)).
+- 🎵 **[Telegram Lyrics Bot](https://github.com/Senior-Guy/Automations/tree/main/n8n)**: an n8n workflow that answers `/lyrics <song>` with formatted lyrics.
+- 🐍 Working through Python fundamentals as a base for ML and AI development.
 
-## Current Focus
+## Featured project
 
-- Python and problem-solving
-- Workflow automation with n8n
-- API integrations
-- AI-assisted productivity tools
-- Building projects that are useful, not just theoretical
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Automations](https://github.com/Senior-Guy/Automations) | Everyday automations: hourly AI news, lyrics lookup, daily tech digest | Python, GitHub Actions, n8n, Groq, Telegram |
 
-## Featured Projects
+## Tools I use
 
-### [My_Tech_journey](https://github.com/Senior-Guy/My_Tech_journey)
-Python learning repo with hands-on labs covering conditionals, functions, validation, and logic-building exercises.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### [Automations](https://github.com/Senior-Guy/Automations)
-An n8n automation workflow that collects and summarizes tech news from multiple sources and sends curated updates via Telegram.
+## Currently learning
 
-## Tech Stack
+- Python for ML/AI
+- Building and deploying small AI-powered tools
+- Writing clear documentation for everything I ship
 
-- Python
-- n8n
-- APIs
-- GitHub
-- AI tools
-- Workflow automation
+## Get in touch
 
-## Learning Roadmap
-
-- Python fundamentals
-- API usage and integration
-- Automation design patterns
-- AI workflow orchestration
-- Production-ready project structure
-
-## What I’m Looking For
-
-I’m interested in building useful projects, learning from real-world systems, and growing toward software engineering work in Python, automation, and AI-driven tooling.
-
-## Connect
-
-- GitHub: [Senior-Guy](https://github.com/Senior-Guy)
-- Portfolio projects: [My_Tech_journey](https://github.com/Senior-Guy/My_Tech_journey) and [Automations](https://github.com/Senior-Guy/Automations)
-
-> I enjoy learning by building and turning ideas into small but useful systems.
+📫 Open an issue on any of my repositories, or reach me at: **add your email or LinkedIn here**
